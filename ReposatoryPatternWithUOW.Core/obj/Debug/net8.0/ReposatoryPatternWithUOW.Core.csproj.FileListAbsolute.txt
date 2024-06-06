@@ -1,0 +1,11 @@
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\bin\Debug\net8.0\ReposatoryPatternWithUOW.Core.deps.json
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\bin\Debug\net8.0\ReposatoryPatternWithUOW.Core.dll
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\bin\Debug\net8.0\ReposatoryPatternWithUOW.Core.pdb
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.AssemblyInfo.cs
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.dll
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\refint\ReposatoryPatternWithUOW.Core.dll
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ReposatoryPatternWithUOW.Core.pdb
+D:\Abdulla\ModelServices\ReposatoryPatternWithUOW.Core\obj\Debug\net8.0\ref\ReposatoryPatternWithUOW.Core.dll
